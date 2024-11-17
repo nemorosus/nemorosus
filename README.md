@@ -6,7 +6,7 @@ I come from the southern comfort of the Yugoslav region and I hack, I get hacked
 
 <p align="center">
 
-<a href="#"><img href="#" src="https://skillicons.dev/icons?i=apple,bash,blender,cloudflare,css,github,html,mysql,notion,php,redis,sublime,svg,wordpress,windows,aws&perline=8" /> <br/>
+<a href="#"><img href="#" src="https://skillicons.dev/icons?i=apple,bash,blender,cloudflare,css,github,html,mysql,notion,php,redis,sublime,svg,wordpress,windows,aws&perline=16" /> <br/>
 
 <p><strong>I WANNA LEARN</strong></p>
 <a href="#"><img href="#" src="https://skillicons.dev/icons?i=swift,cpp&perline=8" /> <br/>
