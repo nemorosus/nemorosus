@@ -22,7 +22,7 @@ I come from the southern comfort of the Yugoslav region and I hack, I get hacked
 
 <p><strong>STATS</strong></p>  
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=nemorosus&theme=dark&count_private=true&hide_border=true&line_height=25)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=nemorosus&theme=dark&count_private=true&hide_border=true&line_height=28)</a>
 
 </div>
 
