@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn. 
+I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn. My repositories are chaos, you should probably check out my organisation [Radio Yugoslavia](@radio-yugoslavia) and learn more about me from there. ;)
 
 <p><strong>I USE</strong></p>
 
@@ -9,7 +9,7 @@ I come from the southern comfort of the Yugoslav region and I hack, I get hacked
 <a href="#"><img href="#" src="https://skillicons.dev/icons?i=apple,bash,blender,cloudflare,css,github,html,mysql,notion,php,redis,sublime,svg,wordpress,windows,aws&perline=8" /> <br/>
 
 <p><strong>I WANNA LEARN</strong></p>
-<a href="#"><img href="#" src="https://skillicons.dev/icons?i=swift,cpp&perline=8" /> <br/>
+<a href="#"><img href="#" src="https://skillicons.dev/icons?i=swift,cpp&perline=8" /></a> <br/>
 
 </p>
 
