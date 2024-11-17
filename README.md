@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn. My repositories are chaos, you should probably check out my organisation [Radio Yugoslavia](@radio-yugoslavia) and learn more about me from there. ;)
+I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn. My repositories are chaos, you should probably check out my organisation [Radio Yugoslavia](https://github.com/Radio-Yugoslavia) and learn more about me from there. ;)
 
 <p><strong>I USE</strong></p>
 
