@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn.
+I come from the southern comfort of the Yugoslav region and I hack, I get hacked, I live to learn. 
 
 <p><strong>I USE</strong></p>
 
@@ -16,7 +16,6 @@ I come from the southern comfort of the Yugoslav region and I hack, I get hacked
 <p><strong>STATUS</strong></p>
 
 ![status](https://api.statusbadges.me/badge/status/1046711669969133588?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/1046711669969133588)
 [![spotify](https://api.statusbadges.me/badge/spotify/1046711669969133588)](https://api.statusbadges.me/openspotify/1046711669969133588)
 
 <a href="#">![views](https://komarev.com/ghpvc/?username=nemorosus&color=ffbe00)</a>
